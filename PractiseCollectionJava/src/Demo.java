@@ -24,9 +24,10 @@ public class Demo {
 		for(;;) {
 			System.out.println("hehehehe");
 			System.out.println("hehehehe");
+            System.out.println("hehehehe");
 			break;
 		}
-	
+
 	}
 	
 	
